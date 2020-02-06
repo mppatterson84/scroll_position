@@ -20,5 +20,6 @@ console.log(scrolled());
 ```
 or
 ```javascript
+const targetElement = document.querySelector("div");
 targetElement.style.width = `${scrolled()}%`;
 ```
