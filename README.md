@@ -25,4 +25,5 @@ targetElement.style.width = `${scrolled()}%`;
 ```
 
 ### See the example
-https://mppatterson84.github.io/scroll_position/example/example.html
+<a href="https://github.com/mppatterson84/scroll_position/tree/master/example" target="_blank">Example Code</a>
+<a href="https://mppatterson84.github.io/scroll_position/example/example.html" target="_blank">Live Demo</a>
