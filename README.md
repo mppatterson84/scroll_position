@@ -23,3 +23,6 @@ or
 const targetElement = document.querySelector("div");
 targetElement.style.width = `${scrolled()}%`;
 ```
+
+### See the example
+https://mppatterson84.github.io/scroll_position/example/example.html
